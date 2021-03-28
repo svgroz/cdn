@@ -1,0 +1,9 @@
+#ifndef ERROR_CODE_H
+#define ERROR_CODE_H
+
+#define METADATA_SIZE_IS_NULL 1
+#define METADATA_SIZE_IS_ILLEGAL 2
+
+
+
+#endif /* ERROR_CODE_H */

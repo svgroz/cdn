@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "gtest.h": "c",
+        "error_code.h": "c",
+        "hello.h": "c"
+    }
+}
