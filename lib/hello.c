@@ -17,7 +17,3 @@ void create_page(size_t metadata_size, DataType *metadata, int *error) {
   
   *error = 0;
 }
-
-int widget_ok(int x, int y) {
-  return x == 0 ? 1 : 0;
-}

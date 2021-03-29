@@ -1,6 +1,4 @@
-#ifndef HELLO_H
-#define HELLO_H
-
+#pragma once
 
 #include <stddef.h>
 
@@ -18,7 +16,3 @@ typedef struct Page
 } Page;
 
 void create_page(size_t metadata_size, DataType *metadata, int *error);
-
-int widget_ok(int x, int y);
-
-#endif /* HELLO_H */
