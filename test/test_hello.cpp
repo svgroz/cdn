@@ -10,4 +10,3 @@ TEST(create_page, not_ok) {
   create_page(0, x, &error_code);
   ASSERT_NE(error_code, 0);
 }
-

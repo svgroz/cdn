@@ -3,6 +3,7 @@
     "files.associations": {
         "gtest.h": "c",
         "error_code.h": "c",
-        "hello.h": "c"
+        "hello.h": "c",
+        "stdio.h": "c"
     }
 }
